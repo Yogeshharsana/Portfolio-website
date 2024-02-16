@@ -20,7 +20,7 @@ const About = () => {
           </p>
 
           <a
-            href="https://drive.google.com/file/d/1aSqiNICvCdw1SefkPRS0WMcSZRkkOuQ4/view"
+            href="https://drive.google.com/file/d/1YPw8zHs62109A0WHhogSav2viagHnYEx/view?usp=drive_link"
             target="_blank"
             rel="noreferrer"
             className="button button--flex"
