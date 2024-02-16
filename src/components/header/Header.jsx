@@ -90,7 +90,7 @@ const Header = () => {
                 }
               >
                 <i className="uil uil-scenery nav_icon"></i>
-                Portfolio
+                Projects
               </a>
             </li>
 

@@ -10,10 +10,10 @@ const Contact = () => {
 
     try {
       await emailjs.sendForm(
-        "service_wsrs3ae",
-        "template_q4lyeso",
+        "service_tmqlfgm",
+        "template_pyekqlm",
         form.current,
-        "DbmWEjsvlN-BDQmnl"
+        "3Yz7pv2r1z0LRGMje"
       );
       setIsMessageSent(true);
       e.target.reset();
