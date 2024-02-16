@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import "./header.css";
-import logo from "../../assets/h.png"
+import logo from "./H.png"
 
 const Header = () => {
   // Change Background Header
@@ -21,7 +21,7 @@ const Header = () => {
     <header className="header">
       <nav className="nav container">
         <a href="index.html" className="nav_logo">
-        <img src={logo} alt="" className="logo" />
+        <img src={logo} alt="" className="logo-nav" />
         </a>
 
         <div className={Toggle ? "nav_menu show_menu" : "nav_menu"}>
