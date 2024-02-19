@@ -7,8 +7,8 @@ export const projectsData = [
   {
     id: 1,
     image: Work1,
-    title: "Fitness App",
-    link: "https://fitness-exercise-app-uy24.vercel.app/",
+    title: "Decentralised Lottery System",
+    link: "",
   },
   {
     id: 2,
